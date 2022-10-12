@@ -6,7 +6,7 @@ namespace RentAllCars.Data.Entities
     {
         public string Name { get; set; }
         public string Adress { get; set; }
-        public int PhoneNumber { get; set; }
+        public int Gsm { get; set; }
         public string Image { get; set; }
         public string Email { get; set; }
         public string UserName { get; set; }

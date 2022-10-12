@@ -15,7 +15,9 @@ namespace RentAllCars.Data.Entities
         public float Rate { get; set; }
         public bool Status { get; set; }
 
+        public int OwnerId { get; set; }
         public Owner Owner { get; set; }
+        public int BrandId { get; set; }
         public Brand Brand { get; set; }
     }
 }

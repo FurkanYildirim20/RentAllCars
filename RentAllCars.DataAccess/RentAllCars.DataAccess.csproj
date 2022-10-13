@@ -20,11 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Concrete\" />
-    <Folder Include="Abstract\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\RentAllCars.Data\RentAllCars.Data.csproj" />
   </ItemGroup>
 

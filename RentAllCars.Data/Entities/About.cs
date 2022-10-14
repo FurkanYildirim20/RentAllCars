@@ -1,4 +1,4 @@
-﻿using RentAllCars.Core.BaseEntity;
+﻿using RentAllCars.Core.Entities.Concrete;
 
 namespace RentAllCars.Data.Entities
 {

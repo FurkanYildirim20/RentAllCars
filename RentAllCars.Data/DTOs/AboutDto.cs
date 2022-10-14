@@ -1,9 +1,9 @@
-﻿using RentAllCars.Core.BaseDTO;
+﻿using RentAllCars.Core.Entities.Concrete;
 
 namespace RentAllCars.Data.DTOs
 {
     public class AboutDto : BaseDto
     {
-        public string Text { get; set; }
+        public int AboutID { get; set; }
     }
 }
